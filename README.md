@@ -1,4 +1,4 @@
-### Mark Houghton, PhD
+## Mark Houghton, PhD
 
 - 👋 Hi I’m Mark, a consultant and mobile engineer based in the UK.
 - 👀 Some of the things I'm interested in include smart home automation, whisky, and all things mobile.
