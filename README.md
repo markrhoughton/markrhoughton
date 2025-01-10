@@ -2,7 +2,7 @@
 
 - 👋 Hi I’m Mark, a mobile developer, app founder & IT consultant based in Italy.
 - 💼 I offer services such as proof of concept application development, technical writing, and IT consulting.
-- 👨‍🔬 I have a background in research, but moved into iOS development and have spent the last few years focusing on iOS native and Flutter.
+- 👨‍🔬 I have a background in research, but moved into mobile development with a focus on iOS native and Flutter.
 - 👀 Some of the things I'm interested in include A/B testing and analytics, improving long distance friendships, and all things mobile.
 
 ### Connect with me 📫
@@ -32,4 +32,5 @@ Reach out on LinkedIn for more info on my services and to check my availability:
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/mark-r-houghton/
+[website]: https://markrhoughton.github.io/
+[linkedin]: https://www.linkedin.com/in/mark-r-sh/
