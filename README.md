@@ -1,36 +1,38 @@
-## Mark Houghton, PhD
+## Mark Houghton
 
-- 👋 Hi I’m Mark, a mobile developer, app founder & IT consultant based in Italy.
-- 💼 I offer services such as proof of concept application development, technical writing, and IT consulting.
-- 👨‍🔬 I have a background in research, but moved into mobile development with a focus on iOS native and Flutter.
-- 👀 Some of the things I'm interested in include A/B testing and analytics, improving long distance friendships, and all things mobile.
+**I build mobile products, not just mobile features.**
 
-### Connect with me 📫
-Reach out on LinkedIn for more info on my services and to check my availability:
-  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Six years of native iOS, and a product owner's instinct for what shouldn't get
+built. A suite of apps of my own as the proof: two live on the App Store, three in
+early development. Flutter Developer and Product Owner at Pocketworks, a UK
+mobile agency. Four years of a Computer Science PhD before that, which is where
+the habit of testing an assumption before building on it started. British,
+living in Trento, Italy, working with UK and European teams on UK hours.
 
-<br />
+Swift · SwiftUI · SwiftData · StoreKit · App Intents · Flutter · Dart · Next.js · Supabase · Postgres
 
-### Currently working with 📱
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />][website]
-[<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ios/ios.png" />][website]
-[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/swift/swift.png" />][website]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+### markrsh apps
 
-<br />
+| App | Status | Stack | Link |
+|---|---|---|---|
+| **SoonCall** - stays in touch without ever seeing the rest of your address book. Not by promise, by architecture. | Live | Swift, SwiftUI, SwiftData | [SoonCall on the App Store](https://apps.apple.com/app/id6470842756) · [sooncall.com](https://sooncall.com) |
+| **Subero** - a subscription tracker designed for freelancers. | Live | Swift, SwiftUI, SwiftData | [Subero on the App Store](https://apps.apple.com/app/id6468889771) |
+| **Unnamed** - a plant-diversity tracker that coaches rather than counts | Closed Beta | Swift, SwiftUI, SwiftData | Not public yet |
+| **Unnamed** - pay once, no account, no subscription | Closed Beta | Swift, SwiftUI | Not public yet |
+| **Unnamed** - multi-tenant restaurant menu SaaS, tenant isolation in Postgres row-level security | Closed Beta | Next.js, Supabase, Postgres | Not public yet |
 
-### Previously worked with 👾
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />][website]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/kotlin/kotlin.png" />][website]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][website]
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />][website]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][website]
+All five are closed-source, so the work shows up here as products rather than
+code. The reasoning behind each, including what I left out, is on
+[markrsh.com](https://www.markrsh.com/).
 
-<br />
-<br />
 
-[website]: https://markrhoughton.github.io/
-[linkedin]: https://www.linkedin.com/in/mark-r-sh/
+### Working together
+
+I take on selected contract and consulting work alongside my role at
+Pocketworks: native iOS and Flutter builds, App Store launches, paywall and
+subscription strategy, or a research sprint before you commit engineering
+budget to something unproven.
+
+[What I offer](https://www.markrsh.com/services/) <!-- · [See the work](https://www.markrsh.com/work/) -->
+
+[markrsh.com](https://www.markrsh.com/) · [About](https://www.markrsh.com/about/) · [LinkedIn](https://www.linkedin.com/in/markrsh) · [App Store developer page](https://apps.apple.com/developer/mark-robert-sindoni-houghton/id1658399000)
